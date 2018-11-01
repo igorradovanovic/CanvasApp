@@ -1,5 +1,5 @@
 # CanvasApp
-## READ ME --> INSTRUCTIONS
+## README --> INSTRUCTIONS
 
 
 1. create a new canvas.
